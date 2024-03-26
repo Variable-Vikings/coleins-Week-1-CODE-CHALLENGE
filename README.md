@@ -70,7 +70,7 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 
 ## Live Link
 
-## https://coleins.github.io/My-Week-1-CODE-CHALLENGE/
+## https://coleins.github.io/Week-1-CODE-CHALLENGE/
 
 ## Dependencies
 
